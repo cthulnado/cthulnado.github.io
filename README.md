@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -25,7 +24,7 @@
 </pre>
 
   <ul>
-    <li><a href="#">VHS Archive</a></li>
+    <li><a href="vhs.html">VHS Archive</a></li>
     <li><a href="#">Tales from the Undercroft</a></li>
     <li><a href="#">The Lantern Reel</a></li>
   </ul>
